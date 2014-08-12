@@ -1,14 +1,7 @@
----
-title: 'Algorithms in MapReduce: Examples in Python'
+Algorithms in MapReduce: Examples in Python
+=====================================================
 author: "Chuan Zhang"
 date: "Monday, August 11, 2014"
-output:
-  html_document:
-    highlight: monochrome
-    self_contained: no
-    theme: spacelab
-    toc: yes
----
 
 # Synopsis
 
