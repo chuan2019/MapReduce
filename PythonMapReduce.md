@@ -1,7 +1,8 @@
-Algorithms in MapReduce: Examples in Python
-=====================================================
-author: "Chuan Zhang"
-date: "Monday, August 11, 2014"
+<center>
+	<font size="20" color="blue"><strong>Algorithms in MapReduce: Examples in Python</a></strong></font><br><br>
+	<font size="10" color="blue"><font style="font-style:italic;">Chuan Zhang</font> (2014)</font><br><br>
+</center>
+<hr>
 
 # Synopsis
 
